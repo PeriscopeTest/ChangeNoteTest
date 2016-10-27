@@ -10,6 +10,7 @@ Phasellus tempus, nibh eget maximus tempor, arcu eros pretium nisl, tincidunt fi
 02.1
 * All subcontractors must have red hair and brown eyes
 * No goatee beards allowed on either men or women
+* No sub-sub contracting allowed after 11/11/2016
 
 
 
