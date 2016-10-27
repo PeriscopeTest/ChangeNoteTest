@@ -7,6 +7,11 @@ SEC 02
 
 Phasellus tempus, nibh eget maximus tempor, arcu eros pretium nisl, tincidunt finibus elit enim vitae leo. Sed non purus et sem sagittis bibendum. Nullam ultrices consectetur sagittis. Ut fermentum felis id nibh dignissim viverra. Nunc a lacus in ligula ultrices luctus. Proin lectus mi, dignissim at hendrerit et, tempor non erat. Fusce aliquet, est et malesuada efficitur, ipsum purus congue odio, a mollis ante dolor sit amet felis. Sed sit amet ornare quam.
 
+02.1
+* All subcontractors must have blonde hair
+* No goatee beards allowed on either men or women
+
+
 
 SEC 03
 
